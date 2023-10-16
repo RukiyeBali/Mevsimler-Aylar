@@ -1,0 +1,10 @@
+C:\Users\student\Desktop\Ahmet\ntp\mevsim-1\mevsim-1\bin\Debug\mevsim-1.exe.config
+C:\Users\student\Desktop\Ahmet\ntp\mevsim-1\mevsim-1\bin\Debug\mevsim-1.exe
+C:\Users\student\Desktop\Ahmet\ntp\mevsim-1\mevsim-1\bin\Debug\mevsim-1.pdb
+C:\Users\student\Desktop\Ahmet\ntp\mevsim-1\mevsim-1\obj\Debug\mevsim-1.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Ahmet\ntp\mevsim-1\mevsim-1\obj\Debug\mevsim_1.Form1.resources
+C:\Users\student\Desktop\Ahmet\ntp\mevsim-1\mevsim-1\obj\Debug\mevsim_1.Properties.Resources.resources
+C:\Users\student\Desktop\Ahmet\ntp\mevsim-1\mevsim-1\obj\Debug\mevsim-1.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Ahmet\ntp\mevsim-1\mevsim-1\obj\Debug\mevsim-1.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Ahmet\ntp\mevsim-1\mevsim-1\obj\Debug\mevsim-1.exe
+C:\Users\student\Desktop\Ahmet\ntp\mevsim-1\mevsim-1\obj\Debug\mevsim-1.pdb
